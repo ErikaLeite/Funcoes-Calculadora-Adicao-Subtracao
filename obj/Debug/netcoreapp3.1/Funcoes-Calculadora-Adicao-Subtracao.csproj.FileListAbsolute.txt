@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\bin\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\bin\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\bin\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\bin\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\bin\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\bin\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\obj\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\obj\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\obj\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\obj\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\obj\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\obj\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Funcoes-Calculadora-Adicao-Subtracao\obj\Debug\netcoreapp3.1\Funcoes-Calculadora-Adicao-Subtracao.genruntimeconfig.cache
